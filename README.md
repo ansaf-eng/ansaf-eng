@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm M. A. M. Ansaf
+# 👋 Hi, I'm Ansaf
 
 ### 💻 Computer Engineering Undergraduate
 ### 🔬 Physical Science Undergraduate
