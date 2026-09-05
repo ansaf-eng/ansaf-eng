@@ -460,15 +460,17 @@ My long-term journey includes exploring:
 
 # 🌟 Thanks for Visiting!
 
-### 🚀 The journey has just started.
+## 🚀 My Current Focus
 
-### 🌱 Currently learning.
+💻 Learning Computer Engineering fundamentals
 
-### 🛠️ Building step by step.
+🐍 Improving my programming skills with Python and Java
 
-### 🔍 Exploring technology.
+🤖 Exploring Artificial Intelligence and emerging technologies
 
-### 🔥 Preparing for bigger challenges.
+🔬 Connecting science, mathematics, and technology
+
+🌱 Growing through continuous learning and small projects
 
 > **Feel free to explore my repositories and follow my learning journey!**
 
