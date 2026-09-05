@@ -477,8 +477,3 @@ My long-term journey includes exploring:
 ### 💻 Keep Learning • Keep Building • Keep Growing
 
 </div>
-'''
-
-path = Path("/mnt/data/Ansaf_GitHub_Profile_README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path.name} with {len(readme.splitlines())} lines.")
