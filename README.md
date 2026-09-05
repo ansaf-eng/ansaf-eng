@@ -31,7 +31,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: *Add your LinkedIn profile link here*
+- 💼 LinkedIn: [Mohamed Azwer Mohamed Ansaf](https://www.linkedin.com/in/mohamed-azwer-mohamed-ansaf-55061130a/)
 
 ---
 
