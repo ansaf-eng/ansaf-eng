@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Ansaf 👋
 
-<!--
-**ansaf-eng/ansaf-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Undergraduate at OUSL  
+🎓 Physical Science Undergraduate at EUSL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Artificial Intelligence and Technology  
+🌱 Currently learning Python and exploring AI & Machine Learning  
+💡 Passionate about learning, building new skills, and technology  
+
+---
+
+## 🛠️ Currently Learning
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Software Development Fundamentals
+
+---
+
+## 🚀 My Goals
+
+- Build practical technology projects
+- Improve my programming skills
+- Explore Artificial Intelligence and Machine Learning
+- Contribute to meaningful projects in the future
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *Add your LinkedIn profile link here*
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
