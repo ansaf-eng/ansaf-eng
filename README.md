@@ -10,10 +10,17 @@
 💡 Passionate about learning, building new skills, and technology  
 
 ---
+## 🚀 Projects
 
+🔨 Projects coming soon — currently learning and building!
+
+---
 ## 🛠️ Currently Learning
 
 - Python
+- Java
+- Mathematics
+- Physics
 - Artificial Intelligence
 - Machine Learning
 - Software Development Fundamentals
