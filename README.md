@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Computer%20Engineering-Student-2ea44f?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20Engineering-Student-2ea44f?style=for-the-badge&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Physical%20Science-Undergraduate-blue?style=for-the-badge"/>
 
