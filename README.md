@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Ansaf
 
-### 💻 Computer Engineering Undergraduate
+### 💻 Engineering Undergraduate
 ### 🔬 Physical Science Undergraduate
 ### 🤖 AI & Technology Enthusiast
 
@@ -34,7 +34,7 @@
 
 👋 Hello! I'm **M. A. M. Ansaf**, a student passionate about technology, science, programming, and continuous learning.
 
-I am currently pursuing my academic journey in both **Computer Engineering** and **Physical Science**.
+I am currently pursuing my academic journey in both **Engineering** and **Physical Science**.
 
 My interests are gradually growing around the intersection of:
 
@@ -64,11 +64,11 @@ I believe every expert starts as a beginner, and meaningful progress comes from 
 
 <td width="50%" align="center">
 
-## 💻 Computer Engineering
+## 👨🏼‍🔬 Engineering
 
 ### The Open University of Sri Lanka
 
-**BSc (Hons) Computer Engineering**
+**BSc (Hons) Engineering**
 
 📚 Engineering  
 💻 Programming  
